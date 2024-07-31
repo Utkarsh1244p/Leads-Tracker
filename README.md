@@ -25,7 +25,7 @@ To install the Lead Tracker Chrome Extension locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lead-tracker.git
+   git clone https://github.com/Utkarsh1244p/Leads-Tracker-Chrome-Extension.git
 
 2. **Navigate into the project directory:**
 
