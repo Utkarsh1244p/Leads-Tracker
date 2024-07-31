@@ -4,7 +4,7 @@ Welcome to the Lead Tracker Chrome Extension repository! This Chrome extension a
 
 ## Version
 
-Current version: v1.0
+Current version: v2.0
 
 ## Features
 
